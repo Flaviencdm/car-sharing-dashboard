@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title("Car Sharing Dashboard 🚗")
+st.title("Car Sharing Dashboard")
